@@ -1,0 +1,4 @@
+-["Sun-Scorched Forest", color(255, 100, 255)]
+[#nm:"Sky Farm Pipe", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,4,2,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"Plant Basement N", #sz:point(5,2), #specs:[3,1,1,1,1,1,1,1,2,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,2,2,2,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"Plant Basement S", #sz:point(5,2), #specs:[1,5,1,1,1,1,1,1,1,4], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,2,2,2,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
